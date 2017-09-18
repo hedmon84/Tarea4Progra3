@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Beto/Google Drive/Code/C++/Tarea4/Evaluador.cpp
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/Tarea4/Evaluador.h
+
+/Users/Beto/Google Drive/Code/C++/Tarea4/Evaluador.h
+Mascota.h
+/Users/Beto/Google Drive/Code/C++/Tarea4/Mascota.h
+iostream
+-
+queue
+-
+
+/Users/Beto/Google Drive/Code/C++/Tarea4/Mascota.cpp
+Mascota.h
+/Users/Beto/Google Drive/Code/C++/Tarea4/Mascota.h
+
+/Users/Beto/Google Drive/Code/C++/Tarea4/Mascota.h
+iostream
+-
+list
+-
+fstream
+-
+
+/Users/Beto/Google Drive/Code/C++/Tarea4/main.cpp
+Mascota.h
+/Users/Beto/Google Drive/Code/C++/Tarea4/Mascota.h
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/Tarea4/Evaluador.h
+iostream
+-
+list
+-
+fstream
+-
+
